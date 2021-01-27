@@ -33,5 +33,6 @@ public class Coworker {
         System.out.printf("Имя: %s\nФамилия: %s\nОтчество: %s\nEmail: %s\nЗарплата: %d\nВозраст: %d", name, surName, patronymic, email, salary, age);
     }
 
+    //test
 
 }
