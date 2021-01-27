@@ -9,7 +9,7 @@ public class CoworkerMainApp {
         System.out.println();
         System.out.println("--------");
 
-//      Добавим ещё параметры
+//      test
 //      Illness ageIll = new Illness(true);
 
         Coworker workersArr[] = new Coworker[5];
