@@ -9,7 +9,8 @@ public class CoworkerMainApp {
         System.out.println();
         System.out.println("--------");
 
-//        Illness ageIll = new Illness(true);
+//      Добавим ещё параметры
+//      Illness ageIll = new Illness(true);
 
         Coworker workersArr[] = new Coworker[5];
         workersArr[0] = new Coworker("Gr8", "Boy", "Jack", "Dog", "", 0, 55);
@@ -28,6 +29,4 @@ public class CoworkerMainApp {
             }
         }
     }
-
-
 }
